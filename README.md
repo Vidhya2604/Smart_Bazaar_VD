@@ -35,8 +35,8 @@ The sales dashboard offers a visual representation of the Smart Bazaar's sales d
 - **Total Sales**: $323K
 - **Total Cogs**: $308K
 - **Total Profit**: $15k
-- **Average Sales**: $323k
-- **Average Rating: 6.97
+- **Average Sales**: $323
+- **Average Rating**: 6.97
 
 ### Total Sales by Category
 
